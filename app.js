@@ -7,6 +7,7 @@ import db from "./config/database.js";
 // Import router
 import Router from "./routes/routes.js";
 import AuthRouter from "./routes/auth.js";
+import * as dotenv from "dotenv"
 
 // Init express
 const app = express(); //traemos express 
