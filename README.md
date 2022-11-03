@@ -111,3 +111,7 @@ jobs:
 ```
 
 en github creamos el token. Settings/Secretes/actions/
+
+[![rendercorriendo.png](https://i.postimg.cc/Zqmvx5cQ/rendercorriendo.png)](https://postimg.cc/sMn2VybP)
+
+[![rendercorriendo2.png](https://i.postimg.cc/15Pzdj6g/rendercorriendo2.png)](https://postimg.cc/3WS749t7)
