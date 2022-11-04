@@ -8,7 +8,7 @@ import Guild from '../models/guild.js';
 
 const { expect } = chai;
 
-// test the enpoint of dealerships
+// test the enpoint of guilds
 
 describe('Test endpoint Guilds', () => {
   let token;
